@@ -14,13 +14,10 @@
    #header{
     height: 150px;
     background-color: green;
+    margin-bottom: 15px;
    }
 
-   #main_navigation{
-       display: inline-block;
-       /*outline: 2px solid black;*/
-       margin-top: 15px;
-   }
+  
    #navigation{
     height: 300px;
     width: 200px;
